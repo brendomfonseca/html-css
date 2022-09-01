@@ -12,7 +12,12 @@ header {
     padding-top: 40px;
 }
 
-header > h1 {
+header > h1  {
     color: white;
     
 }
+
+header > p {
+    color: white;
+}
+
